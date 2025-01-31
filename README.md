@@ -1,2 +1,2 @@
-# Kitchen-X-Underground
+# KitchenXUnderground
 Short menu with contact information 
